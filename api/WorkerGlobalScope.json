@@ -33,7 +33,7 @@
             "version_added": "4"
           },
           "safari_ios": {
-            "version_added": "3.2"
+            "version_added": "5"
           },
           "samsunginternet_android": {
             "version_added": true
@@ -82,7 +82,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -132,7 +132,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -229,7 +229,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "3.2"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "1.0"
@@ -255,7 +255,7 @@
                 "version_added": "71"
               },
               "edge": {
-                "version_added": "≤79"
+                "version_added": "79"
               },
               "firefox": {
                 "version_added": "67"
@@ -264,7 +264,7 @@
                 "version_added": "67"
               },
               "ie": {
-                "version_added": null
+                "version_added": false
               },
               "opera": {
                 "version_added": "58"
@@ -327,7 +327,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -364,7 +364,7 @@
               "version_added": "4"
             },
             "ie": {
-              "version_added": true
+              "version_added": "10"
             },
             "opera": {
               "version_added": "11.5"
@@ -376,7 +376,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -413,7 +413,7 @@
               "version_added": "4"
             },
             "ie": {
-              "version_added": true
+              "version_added": "10"
             },
             "opera": {
               "version_added": "11.5"
@@ -425,7 +425,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -475,7 +475,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -512,7 +512,7 @@
               "version_added": "4"
             },
             "ie": {
-              "version_added": true
+              "version_added": "10"
             },
             "opera": {
               "version_added": "11.5"
@@ -524,7 +524,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -573,7 +573,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
@@ -757,7 +757,7 @@
               "version_added": "34"
             },
             "ie": {
-              "version_added": true
+              "version_added": "10"
             },
             "opera": {
               "version_added": "11.5"
@@ -769,7 +769,7 @@
               "version_added": "4"
             },
             "safari_ios": {
-              "version_added": "5.1"
+              "version_added": "5"
             },
             "samsunginternet_android": {
               "version_added": "4.0"
